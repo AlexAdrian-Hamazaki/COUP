@@ -56,5 +56,5 @@ I coded this game to get some practice with OOP. Here is a map of my brainstormi
 
 
 I also coded this to eventually train a RL model on the game.
-The progress (or completion depending on when this is read) can be found here [[]]
+The progress (or completion depending on when this is read) can be found [here](https://github.com/AlexAdrian-Hamazaki/RL_COUP)
 
